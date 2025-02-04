@@ -64,19 +64,19 @@ function App() {
 
   const steps = [
     {
-      content: "Hello Chidera 💖",
+      content: "Hello Miss Bhoomi 💖",
       image: "/character/one.png",
     },
     {
-      content: `It's been over a year with you, and I wouldn't trade it for anything in the world. ❤️`,
+      content: `It's been over half a year with you, and I wouldn't trade it for anything in the world. ❤️`,
       image: "/character/two.png",
     },
     {
-      content: `Even though you're far away in Abraka, my heart is always with you. 💕`,
+      content: `Even though you're far away , my heart is always with you. 💕`,
       image: "/character/three.png",
     },
     {
-      content: `I miss your smile, your voice, and the way you make my days brighter. 🥰`,
+      content: `I miss your smile, your  way of talking, and the way you make my days brighter. 🥰`,
       image: "/character/four.png",
     },
     {
